@@ -1,7 +1,7 @@
 describe('Contact Us Form Tests', () => {
   
   beforeEach(() => {
-    // Will load instantly once blockHosts is configured
+    
     cy.visit('https://automationexercise.com');
   });
 

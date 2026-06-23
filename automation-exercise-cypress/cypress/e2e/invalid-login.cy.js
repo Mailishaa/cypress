@@ -1,6 +1,6 @@
 describe('Invalid Login Tests', () => {
   
-  // Open the website before the test runs
+  
   beforeEach(() => {
     cy.visit('https://automationexercise.com');
   });

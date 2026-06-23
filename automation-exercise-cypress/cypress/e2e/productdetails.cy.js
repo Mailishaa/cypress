@@ -1,7 +1,7 @@
 describe('Product Detail Verification Tests', () => {
   
   beforeEach(() => {
-    // No extra timeouts needed anymore
+
     cy.visit('https://automationexercise.com');
   });
 

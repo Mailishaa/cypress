@@ -9,14 +9,3 @@ module.exports = defineConfig({
     },
   },
 });
-/* const { defineConfig } = require("cypress");
-
-module.exports = defineConfig({
-  e2e: {
-    // Blocks the ad networks causing the page load hang
-    blockHosts: ["*googlesyndication.com", "*googleads.g.doubleclick.net"],
-    setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
-  },
-}); */
